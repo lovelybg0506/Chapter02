@@ -1,4 +1,4 @@
-package part01.sec01.exam01;
+package part01.sec01.exam02;
 
 public class Ex02_01 {
 
