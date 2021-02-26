@@ -1,6 +1,6 @@
 package part01.sec01.exam01;
 
-public class CastingExample {	// casting = 강제타입변환
+public class CastingExample_2 {	// casting = 강제타입변환
 
 	public static void main(String[] args) {
 			

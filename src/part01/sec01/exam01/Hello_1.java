@@ -1,6 +1,6 @@
 package part01.sec01.exam01;
 
-public class Hello {
+public class Hello_1 {	// class 이름 바꾸기 'F2'
 
 	public static void main(String[] args) {
 		//System.out.println("Hello,Welcome to the java world"); // 주석:프로그램 실행과 상관없음
